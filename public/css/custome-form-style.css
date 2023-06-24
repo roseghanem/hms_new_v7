@@ -1,0 +1,26 @@
+.form-control{
+    background-color: #ffffff4f;
+    border: none;
+    padding: 23px 10px;
+    text-shadow: 0px 0px 1px #ca19e4;
+}
+
+.form-control:focus{
+    background-color: #8eada775;
+}
+
+.shadowed-btn , .shadowed-btn:hover , .shadowed-btn:active , .shadowed-btn:focus , .shadowed-btn:visited{
+    background: none;
+    border: none;
+    background-color: #5e696757;
+    color: #7eedd8;
+    padding: 12px 0px;
+    font-size: 1.2em;
+    width : 100%;
+    box-shadow : none;
+    outline : none;
+}
+
+.shadowed-btn:active{
+    background-color:#5e696791
+}

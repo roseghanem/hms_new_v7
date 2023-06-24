@@ -1,0 +1,15 @@
+*
+{
+    direction: rtl;
+}
+
+*:not(i)
+{
+    font-family: Cairo !important;
+
+}
+
+.box-login h6
+{
+    margin: 20px 0;
+}

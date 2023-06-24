@@ -1,0 +1,89 @@
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 40px;
+}
+
+
+.select2-container--default .select2-selection--single{
+    height: 40px;
+}
+
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 40px;
+}
+
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice{
+    background-color: #875bd7;
+    border: 1px solid #875bd7;
+    color : #FFF
+}
+
+
+.select2-container--default.select2-container--focus .select2-selection--multiple ,
+.select2-container--default.select2-container--focus .select2-selection--single{
+    border: 2px solid #875bd7 !important;
+}
+
+.select2-container--default .select2-selection--multiple ,
+.select2-container--default .select2-selection--single {
+    border: 2px #e1e1e1 solid;
+    border-radius: 8px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.select2-container--default.select2-container--open.select2-container--below .select2-selection--single{
+    border: 2px solid #875bd7;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove{
+    color: #FFF;
+}
+
+.select2 {
+    width: 100% !important;
+}
+.select3-container--default .select3-selection--single .select3-selection__rendered {
+    line-height: 40px;
+}
+
+
+.select3-container--default .select3-selection--single{
+    height: 40px;
+}
+
+
+.select3-container--default .select3-selection--single .select3-selection__arrow {
+    height: 40px;
+}
+
+
+.select3-container--default .select3-selection--multiple .select3-selection__choice{
+    background-color: #875bd7;
+    border: 1px solid #875bd7;
+    color : #FFF
+}
+
+
+.select3-container--default.select3-container--focus .select3-selection--multiple ,
+.select3-container--default.select3-container--focus .select3-selection--single{
+    border: 2px solid #875bd7 !important;
+}
+
+.select3-container--default .select3-selection--multiple ,
+.select3-container--default .select3-selection--single {
+    border: 2px #e1e1e1 solid;
+    border-radius: 8px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.select3-container--default.select3-container--open.select3-container--below .select3-selection--single{
+    border: 2px solid #875bd7;
+}
+
+.select3-container--default .select3-selection--multiple .select3-selection__choice__remove{
+    color: #FFF;
+}
+
+.select3 {
+width: 60%!important; float: right;}
